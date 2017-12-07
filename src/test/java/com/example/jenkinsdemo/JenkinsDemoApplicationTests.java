@@ -14,7 +14,7 @@ public class JenkinsDemoApplicationTests {
 
 	@Autowired
 	private ApplicationContext applicationContext;
-	
+
 	@Test
 	public void contextLoads() {
 		Assertions.assertThat(true).isTrue();
