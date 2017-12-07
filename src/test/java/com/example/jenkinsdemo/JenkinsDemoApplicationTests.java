@@ -12,7 +12,7 @@ public class JenkinsDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		Assertions.assertThat(true).isFalse();
+		Assertions.assertThat(true).isTrue();
 	}
 
 }
